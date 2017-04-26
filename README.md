@@ -2,7 +2,7 @@
 
 ### Introduction to Apache Spark
 
-San Diego, 4/26/2017 
+San Diego, 4/26/2017  
 Assets for IBM's Apache Spark Proof of Technology
 
 # Lab environment setup
