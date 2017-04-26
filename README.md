@@ -7,12 +7,13 @@ Assets for IBM's Apache Spark Proof of Technology
 
 # Lab environment setup
 You will be using IBM DSX notebooks and Apache Spark Service on IBM Bluemix Cloud to work on the labs.
-1. Setup your Spark Service in IBM Bluemix:
 
+1. Setup your Spark Service in IBM Bluemix
 To setup your IBM Bluemix enviroment navigate to https://new-console.ng.bluemix.net, register and create a Spark service.
-2. Log in to IBM Data Science Experience (DSX) to create and run notebooks
 
+2. Log in to IBM Data Science Experience (DSX) to create and run notebooks
 To setup your IBM DSX (Data Science Experience) enviroment navigate to http://datascience.ibm.com and login using your bluemix userid.
+
 A video tutorial on setting up the enviroment can be viewed here:
 https://www.youtube.com/watch?v=yG3tVVDz1uE
 
