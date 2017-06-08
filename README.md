@@ -1,10 +1,11 @@
 # dsx-spark
 
-### Introduction to Apache Spark
-
 <sub>Costa Mesa, 6/8/2017
 <br>
 Assets for IBM's Apache Spark Proof of Technology</sub>
+
+
+### Introduction to Apache Spark
 
 # Lab environment setup
 You will be using IBM DSX notebooks and Apache Spark Service on IBM Bluemix Cloud to work on the labs.
