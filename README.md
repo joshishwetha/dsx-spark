@@ -5,9 +5,9 @@
 Assets for IBM's Apache Spark Proof of Technology</sub>
 
 
-### Introduction to Apache Spark
+# Introduction to Apache Spark
 
-# Lab environment setup
+## Lab environment setup
 You will be using IBM DSX notebooks and Apache Spark Service on IBM Bluemix Cloud to work on the labs.
 
 1. Setup your Spark Service in IBM Bluemix:  
@@ -20,7 +20,7 @@ A video tutorial on setting up the enviroment can be viewed here:
 https://www.youtube.com/watch?v=yG3tVVDz1uE
 
 
-# Lab topics
+## Lab topics
 To use these notebooks simply cut and paste the URLs below when you are creating a new notebook.
 
 1. Introduction to Spark - Python:  
@@ -33,9 +33,9 @@ https://github.com/joshishwetha/dsx-spark/blob/master/Lab%202:%20Spark%20SQL%20-
 https://github.com/joshishwetha/dsx-spark/blob/master/Lab%203%20-%20Machine%20Learning%20Student.ipynb
 
 
-# Data set url
+## Data set url
 https://raw.githubusercontent.com/joshishwetha/dsx-spark/master/data.csv
 
-# Additional links
+## Additional links
 Spark Streming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU 
 Spark Streming demo code : https://github.com/smatlapudi/spark-streaming-webinar1 
