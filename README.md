@@ -2,7 +2,8 @@
 
 ### Introduction to Apache Spark
 
-Costa Mesa, 6/8/2017 
+Costa Mesa, 6/8/2017
+
 Assets for IBM's Apache Spark Proof of Technology
 
 # Lab environment setup
