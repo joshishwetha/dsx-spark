@@ -37,5 +37,5 @@ https://github.com/joshishwetha/dsx-spark/blob/master/Lab%203%20-%20Machine%20Le
 https://raw.githubusercontent.com/joshishwetha/dsx-spark/master/data.csv
 
 ## Additional links
-Spark Streming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU 
+Spark Streming webinar link: https://www.youtube.com/watch?v=_mFm2F7UQgU  
 Spark Streming demo code : https://github.com/smatlapudi/spark-streaming-webinar1 
