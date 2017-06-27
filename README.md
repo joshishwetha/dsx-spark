@@ -1,6 +1,6 @@
 # dsx-spark
 
-<sub>Costa Mesa, 6/8/2017
+<sub>VSP (Sacramento), 6/29/2017
 <br>
 Assets for IBM's Apache Spark Proof of Technology</sub>
 
